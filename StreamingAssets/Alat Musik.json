@@ -1,0 +1,157 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Alat musik yang berasal dari Aceh adalah",
+	"jawaban":[
+		"Serune Kalee",
+		"Aramba",
+		"Gitar",
+		"Kecapi"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Alat musik yang berasal dari Sumatra Utara adalah",
+	"jawaban":[
+		"Aramba",
+		"Sitar",
+		"Kecapi",
+		"Gamelan"
+	]
+},
+{
+	"id":"3",
+	"soal":"Alat musik yang berasal dari Sumatra Barat adalah",
+	"jawaban":[
+		"Saluang",
+		"Gamelan",
+		"Doll",
+		"Gendang"
+	]
+},
+{
+	"id":"4",
+	"soal":"Alat musik yang berasal dari Riau adalah",
+	"jawaban":[
+		"Gambus",
+		"Doll",
+		"Gamelan",
+		"Gendang"
+	]
+},
+{
+	"id":"5",
+	"soal":"Alat musik yang berasal dari Sumatra Selatan adalah",
+	"jawaban":[
+		"Accordion",
+		"Doll",
+		"Bende",
+		"Bonang"
+	]
+},
+{
+	"id":"6",
+	"soal":"Alat musik yang berasal dari Kepulauan Riau adalah",
+	"jawaban":[
+		"Gendang Panjang",
+		"Doll",
+		"Kecapi",
+		"Angklung"
+	]
+},
+{
+	"id":"7",
+	"soal":"Alat musik yang berasal dari Bengkulu adalah",
+	"jawaban":[
+		"Doll",
+		"Tehyan",
+		"Accordion",
+		"Babun"
+	]
+},
+{
+	"id":"8",
+	"soal":"Alat musik yang berasal dari Lampung adalah",
+	"jawaban":[
+		"Bende",
+		"Gitar",
+		"Gamelan",
+		"Bonang"
+	]
+},
+  {
+    "id": "9",
+    "soal": "Alat musik yang berasal dari DKI Jakarta adalah",
+    "jawaban": [
+      "Tehyan",
+      "Angklung",
+      "Banun",
+      "Pating"
+    ]
+  },
+  {
+    "id": "10",
+    "soal": "Alat musik yang berasal dari Jogjakarta adalah",
+    "jawaban": [
+      "Gendang",
+      "Angklung",
+      "Gamelan",
+      "Bonang"
+    ]
+  },
+  {
+    "id": "11",
+    "soal": "Alat musik yang berasal dari Jawa Barat adalah",
+    "jawaban": [
+      "Angklung",
+      "Saronen",
+      "Gendang",
+      "Bonang"
+    ]
+  },
+
+  {
+    "id": "12",
+    "soal": "Alat musik yang berasal dari Nusa Tenggara Timur adalah",
+    "jawaban": [
+      "Sasando",
+      "Japen",
+      "Gendang",
+      "Cengceng"
+    ]
+  },
+
+  {
+    "id": "13",
+    "soal": "Alat musik yang berasal dari Sulawesi Utara adalah",
+    "jawaban": [
+      "Kolintang",
+      "Babun",
+      "Panting",
+      "Talindo"
+    ]
+  },
+  {
+    "id": "14",
+    "soal": "Alat musik yang berasal dari Gorontalo adalah",
+    "jawaban": [
+      "Ganda",
+      "Tifa",
+      "Guata",
+      "Fu"
+    ]
+  },
+   {
+    "id": "15",
+    "soal": "Alat musik yang berasal dari Kalimantan Tengah adalah",
+    "jawaban": [
+      "Japen",
+      "Sampe",
+      "Tuma",
+      "Keso - Keso"
+    ]
+  }
+]
+}

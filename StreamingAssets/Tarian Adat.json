@@ -1,0 +1,156 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Tarian yang berasal dari Aceh adalah ",
+	"jawaban":[
+		"Seudati",
+		"Piring",
+		"Tandak",
+		"Srampang"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Tarian yang berasal dari Sumatra utara adalah",
+	"jawaban":[
+		"Serapang Dua Belas",
+		"Piring",
+		"Tandak",
+		"Andun"
+	]
+},
+{
+	"id":"3",
+	"soal":"Tarian yang berasal dari Jawa Timur adalah",
+	"jawaban":[
+		"Remong",
+		"Legong",
+		"Piring",
+		"Topeng"
+	]
+},
+{
+	"id":"4",
+	"soal":"Tarian yang berasal dari Jambi adalah",
+	"jawaban":[
+		"Sekapur Sirih",
+		"Tandak",
+		"Serampang Dua Belas",
+		"Serimpi"
+	]
+},
+{
+	"id":"5",
+	"soal":"Tarian yang berasal dari Riau adalah",
+	"jawaban":[
+		"Tandak",
+		"Tanggai",
+		"Canggak",
+		"Serimpi"
+	]
+},
+{
+	"id":"6",
+	"soal":"Tarian yang berasal dari Bengkulu adalah",
+	"jawaban":[
+		"Andun",
+		"Tandak",
+		"Canggak",
+		"Campak"
+	]
+},
+{
+	"id":"7",
+	"soal":"Tarian yang berasal dari Sumatra Selatan adalah",
+	"jawaban":[
+		"Tanggai",
+		"Andun",
+		"Remong",
+		"Campak"
+	]
+},
+{
+	"id":"8",
+	"soal":"Tarian yang berasal dari Bangka Belitung adalah",
+	"jawaban":[
+		"Campak",
+		"Andun",
+		"Remong",
+		"Serimpi"
+	]
+},
+  {
+    "id": "9",
+    "soal": "Tarian yang berasal dari Lampung adalah",
+    "jawaban": [
+      "Sigeh Pengunten",
+      "Moang Sangkal",
+      "Serimpi",
+      "Gunting"
+    ]
+  },
+  {
+    "id": "10",
+    "soal": "Tarian yang berasal dari Banten adalah",
+    "jawaban": [
+      "Ngebaksakeun",
+      "Sigeh Pengunten",
+      "Moang Sangkal",
+      "Topeng Kuncaran"
+    ]
+  },
+
+  {
+    "id": "11",
+    "soal": "Tarian yang berasal dari Jawa Barat adalah",
+    "jawaban": [
+      "Topeng Kuncaran",
+      "Sigeh Pengunten",
+      "Serimpi Sangu Pati",
+      "Perang"
+    ]
+  },
+  {
+    "id": "12",
+    "soal": "Tarian yang berasal dari Jogjakarta adalah",
+    "jawaban": [
+      "Serimpi Sangu Pati",
+      "Legong",
+      "Serampang Dua Belas",
+      "Topeng Kuncaran"
+    ]
+  },
+  {
+    "id": "13",
+    "soal": "Tarian yang berasal dari Kalimantan Barat  adalah",
+    "jawaban": [
+      "Monong",
+      "Perang",
+      "Tambun",
+      "Saronde"
+    ]
+  },
+  {
+    "id": "14",
+    "soal": "Tarian yang berasal dari Sulawesi Selatan  adalah",
+    "jawaban": [
+      "Kipas",
+      "Terong Batu",
+      "Lumense",
+      "Perang"
+    ]
+  },
+  {
+    "id": "15",
+    "soal": "Tarian yang berasal dari Maluku  adalah",
+    "jawaban": [
+      "Lenso",
+      "Selamat Datang",
+      "Suanggi",
+      "Mpaa Legonggo"
+    ]
+  }
+]
+}

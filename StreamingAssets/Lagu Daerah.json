@@ -1,0 +1,155 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Lagu Daerah yang berasal dari Aceh adalah",
+	"jawaban":[
+		"Bungong Jeumpa",
+		"PangLipandang",
+		"Apuse",
+		"Soleram"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Lagu Daerah yang berasal dari Sumatra Utara adalah",
+	"jawaban":[
+		"Anju Ahu",
+		"Anak Daro",
+		"Lancang Kuning",
+		"Batang Hari"
+	]
+},
+{
+	"id":"3",
+	"soal":"Lagu Daerah yang berasal dari Sumatra Barat adalah",
+	"jawaban":[
+		"Anak Daro",
+		"BatangHari",
+		"Dayung Sampan",
+		"Anju Ahu"
+	]
+},
+{
+	"id":"4",
+	"soal":"Lagu Daerah yang berasal dari Jambi adalah",
+	"jawaban":[
+		"Batang Hari",
+	  "Anak Daro",
+		"Anju Ahu",
+		"Lancang Kuning"
+	]
+},
+{
+	"id":"5",
+	"soal":"Lagu Daerah yang berasal dari Riau adalah",
+	"jawaban":[
+		"Lancang Kuning",
+		"Cublak Cublak Suweng",
+		"Dayung Sampan",
+		"Bajing Luncat"
+	]
+},
+{
+	"id":"6",
+	"soal":"Lagu Daerah yang berasal dari Bengkulu adalah",
+	"jawaban":[
+		"Sungai Suci",
+		"Lancang Kuning",
+		"Dewa Ayu",
+		"Gai Bintang"
+	]
+},
+{
+	"id":"7",
+	"soal":"Lagu Daerah yang berasal dari Sumatra Selatan adalah",
+	"jawaban":[
+		"Cuk Mak Ilang",
+		"Gai Bintang",
+		"Cangget Agung",
+		"Yok Miak"
+	]
+},
+{
+	"id":"8",
+	"soal":"Lagu Daerah yang berasal dari Lampung adalah",
+	"jawaban":[
+		"Cangget Agung",
+		"Yok Miak",
+		"Gai Bintang",
+		"Dewa Ayu"
+	]
+},
+  {
+    "id": "9",
+    "soal": "Lagu Daerah yang berasal dari Jawa Barat adalah",
+    "jawaban": [
+      "Bajing Luncat",
+      "Ampar Ampar Pisang",
+      "Apuse",
+      "Yok Miak"
+    ]
+  },
+  {
+    "id": "10",
+    "soal": "Lagu Daerah yang berasal dari DKI Jakarta adalah",
+    "jawaban": [
+      "Jali Jali",
+      "Ampar Ampar Pisang",
+      "Dewa Ayu",
+      "Yok Miak"
+    ]
+  },
+  {
+    "id": "11",
+    "soal": "Lagu Daerah yang berasal dari Jawa Tengah adalah",
+    "jawaban": [
+      "Gundul Pacul",
+      "Cublak Cublak Suweng",
+      "Jali Jali",
+      "Suwe Ora Jamu"
+    ]
+  },
+  {
+    "id": "12",
+    "soal": "Lagu Daerah yang berasal dari Jogjakarta adalah",
+    "jawaban": [
+      "Suwe Ora Jamu",
+      "Gundul Pacul",
+      "Jali Jali",
+      "Dewa Ayu"
+    ]
+  },
+  {
+    "id": "13",
+    "soal": "Lagu Daerah yang berasal dari Nusa Tenggara Timur adalah",
+    "jawaban": [
+      "Anak Kambing Saya",
+      "Tutu Koda",
+      "Tumpi Wayu",
+      "Dabu - Dabu"
+    ]
+  },
+  {
+    "id": "14",
+    "soal": "Lagu Daerah yang berasal dari Nusa Tenggara Barat adalah",
+    "jawaban": [
+      "Tutu Koda",
+      "Ayo Mama",
+      "E Mambo Simbo",
+      "Ambon Manise"
+    ]
+  },
+  {
+    "id": "15",
+    "soal": "Lagu Daerah yang berasal dari Papua adalah",
+    "jawaban": [
+      "Apuse",
+      "Ayo Mama",
+      "Tano Walio",
+      "Indung Indung"
+    ]
+  }
+]
+}

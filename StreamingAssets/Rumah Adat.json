@@ -1,0 +1,155 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"Rumah adat dari Aceh adalah",
+	"jawaban":[
+		"Krong Bade",
+		"Nuwo Sesat",
+		"Sumatra",
+		"Limas"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Rumah adat dari Sumatra Utara adalah",
+	"jawaban":[
+		"Bolon",
+		"Krong Bade",
+		"Sumatra",
+		"Rakyat"
+	]
+},
+{
+	"id":"3",
+	"soal":"Rumah adat dari Riau adalah",
+	"jawaban":[
+		"Selaso Jatuh Kembar",
+		"Limas",
+		"Rakyat",
+		"Badui"
+	]
+},
+{
+	"id":"4",
+	"soal":"Rumah adat dari Jambi adalah",
+	"jawaban":[
+		"Panggung Kajang Leko",
+		"Limas",
+		"Selaso Jatuh Kembar",
+		"Rakyat"
+	]
+},
+{
+	"id":"5",
+	"soal":"Rumah adat dari Bengkulu adalah",
+	"jawaban":[
+		"Rakyat",
+		"Limas",
+		"Rakit Limas",
+		"Nuwo Sesat"
+	]
+},
+{
+	"id":"6",
+	"soal":"Rumah adat dari Sumatra Selatan adalah",
+	"jawaban":[
+		"Limas",
+		"Rakyat",
+		"Rakit Limas",
+		"Nuwo Sesat"
+	]
+},
+{
+	"id":"7",
+	"soal":"Rumah adat dari Bangka Belitung adalah",
+	"jawaban":[
+		"Rakit Limas",
+		"Limas",
+		"Kebaya",
+		"Joglo"
+	]
+},
+{
+	"id":"8",
+	"soal":"Rumah adat dari Lampung adalah",
+	"jawaban":[
+		"Nuwo Sesat",
+	"Kebaya",
+		"Limas",
+		"Joglo"
+	]
+},
+  {
+    "id": "9",
+    "soal": "Rumah adat dari Banten adalah",
+    "jawaban": [
+      "Badui",
+      "Sunda",
+      "Kebaya",
+      "Joglo"
+    ]
+  },
+  {
+    "id": "10",
+    "soal": "Rumah adat dari Jawa Barat adalah",
+    "jawaban": [
+      "Sunda",
+      "Kebaya",
+      "Taebab Lajhan",
+      "Joglo"
+    ]
+  },
+  {
+    "id": "11",
+    "soal": "Rumah adat dari Jawa Tengah adalah",
+    "jawaban": [
+      "Joglo",
+      "Musalaki",
+      "Kebaya",
+      "Baloy"
+    ]
+  },
+  {
+    "id": "12",
+    "soal": "Rumah adat dari Jogjakarta adalah",
+    "jawaban": [
+      "Bangsal Kencono",
+      "Bubungan Tinggi",
+      "Kebaya",
+      "Joglo"
+    ]
+  },
+  {
+    "id": "13",
+    "soal": "Rumah adat dari Kalimantan Selatan adalah",
+    "jawaban": [
+      "Bubungan Tinggi",
+      "Bileo",
+      "Baloy",
+      "Joglo"
+    ]
+  },
+  {
+    "id": "14",
+    "soal": "Rumah adat dari Maluku adalah",
+    "jawaban": [
+      "Baileo",
+      "Honai",
+      "Loka",
+      "Panjang"
+    ]
+  },
+   {
+    "id": "15",
+    "soal": "Rumah adat dari Gorontalo adalah",
+    "jawaban": [
+      "Dolahupa",
+      "Tambi",
+      "Tangkonan",
+      "Buton"
+    ]
+  }
+]
+}
